@@ -1,11 +1,1 @@
-.container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 16px; /* Adjust the gap between columns as needed */
-}
 
-.col {
-    background-color: #f8f9fa; /* Optional: Add background color to distinguish columns */
-    padding: 10px; /* Optional: Add padding for spacing */
-    border: 1px solid #dee2e6; /* Optional: Add border for visual separation */
-}
