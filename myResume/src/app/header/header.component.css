@@ -1,0 +1,41 @@
+.info-head {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .info-head h1 {
+    margin: 50px 0 0;
+    font-size: 50px;
+    
+  }
+  
+  .info-head h2 {
+    font-size: 1.5em;
+  }
+  
+  .info-social {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .info-social .icon {
+    display: flex;
+    align-items: center;
+  }
+  
+  .info-social .icon h4 {
+    margin-left: 10px;
+  }
+  
+  .material-symbols-outlined {
+    font-family: 'Material Icons Outlined';
+    font-weight: normal;
+  }
+  
+  .all-icon {
+    font-size: 1.2em;
+  }
+  
