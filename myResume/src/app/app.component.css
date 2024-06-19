@@ -1,6 +1,6 @@
 .grid-container {
     display: grid;
-    grid-template-columns: 1fr 1fr; /* Creates two equal-width columns */
+    grid-template-columns: 2fr 2fr; /* Creates two equal-width columns */
     gap: 16px; /* Adjusts the space between grid items */
     padding: 16px; /* Adds padding around the grid container */
 }
