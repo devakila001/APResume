@@ -8,7 +8,7 @@
 
 .col {
     background-color: #f8f9fa; /* Optional: Add background color to distinguish columns */
-    padding: 30px; /* Optional: Add padding for spacing */
+    padding: 1rem; /* Optional: Add padding for spacing */
     border: 1px solid #dee2e6; /* Optional: Add border for visual separation */
 }
 .grid-container > div {
