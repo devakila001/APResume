@@ -3,7 +3,7 @@
     grid-template-columns: 2fr 2fr; /* Creates two equal-width columns */
     gap: 10px; /* Adjusts the space between grid items */
     padding: 16px; /* Adds padding around the grid container */
-    box-shadow:rgb(145, 90, 19);
+   background-color: rgb(191, 233, 219);
 }
 
 .col {
