@@ -1,11 +1,12 @@
-.grid-container{
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Creates two equal-width columns */
+    gap: 16px; /* Adjusts the space between grid items */
+    padding: 16px; /* Adds padding around the grid container */
+}
 
-  display: grid;
-  height: 400px;
-  align-content: space-around;
-  grid-template-columns: auto auto auto;
-  gap: 10px;
-  background-color: #2196F3;
-  padding: 10px;
-
+.col {
+    background-color: #f8f9fa; /* Optional: Add background color to distinguish columns */
+    padding: 10px; /* Optional: Add padding for spacing */
+    border: 1px solid #dee2e6; /* Optional: Add border for visual separation */
 }
