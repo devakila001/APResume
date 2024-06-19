@@ -11,18 +11,31 @@ h2 {
     margin: 0;
     font-size: 24px; /* Adjust font size */
     text-align: left; /* Center-align the heading */
+    font-family: Rubik, sans-serif;
 }
 h4 {
-    color: rgba(11, 15, 14, 0.87);
-    margin: 0;
+    margin-bottom: 0;
+    color: #524447;
     font-family: Roboto, sans-serif;
-    font-size: 20px; /* Adjust font size */
-    text-align: left; /* Center-align the heading */
+    font-weight: 500;
 }
 
-hr {
-    border: 0;
-    height: 3px;
-    background: rgba(65, 70, 69, 0.87);/* Light grey color for the horizontal rule */
-    margin:0; /* Adjust vertical spacing */
+
+p {
+    color: #333; /* Dark grey text color */
+    font-size: 17px; /* Adjust font size */
+    line-height: 1.6; /* Line height for better readability */
+    margin: 10px 0; /* Adjust vertical spacing */
+    font-family: Roboto, sans-serif;
 }
+
+.proj-hr2{
+    border: 1px dashed rgb(197, 197, 197);
+    border-radius: 10px;
+}
+.proj-hr{
+    margin: 0;
+    border: 2px solid;
+    color: #524447;
+}
+

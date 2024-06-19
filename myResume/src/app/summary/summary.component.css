@@ -13,6 +13,7 @@ h2 {
     color: rgba(11, 15, 14, 0.87);
     margin: 0;
     font-size: 24px; /* Adjust font size */
+    font-family: Rubik, sans-serif;
     text-align: left; /* Center-align the heading */
 }
 
@@ -30,4 +31,5 @@ p {
     font-size: 17px; /* Adjust font size */
     line-height: 1.6; /* Line height for better readability */
     margin: 10px 0; /* Adjust vertical spacing */
+    font-family: Roboto, sans-serif;
 }

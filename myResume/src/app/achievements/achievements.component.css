@@ -1,0 +1,44 @@
+.achievements-container {
+    padding: 29px;
+    background-color: #f8f9fa; /* Light grey background */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    margin: 20px auto; /* Center the container with margin */
+    max-width: 900px; /* Maximum width for readability */
+}
+
+h2 {
+    color: rgba(11, 15, 14, 0.87);
+    margin: 0;
+    font-size: 24px; /* Adjust font size */
+    text-align: left; /* Center-align the heading */
+    font-family: Rubik, sans-serif;
+}
+.proj-hr {
+    margin: 0;
+    border: 2px solid;
+    color: #524447;
+}
+
+.proj-hr2{
+    border: 1px dashed rgb(197, 197, 197);
+    border-radius: 10px;
+}
+
+h4{
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    color: #524447;
+    margin: 13px 0 0;
+    font-family: Roboto, sans-serif;
+}
+
+p{
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    line-height: 21px;
+    margin: 10px 0 19px;
+    font-size: 17px;
+
+}
