@@ -3,6 +3,9 @@
     font-weight: 300;
     line-height: 21px;
     margin: 10px 0 19px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    margin: auto;
 }
 .h2 {
     color: aquamarine;
