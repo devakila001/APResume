@@ -1,43 +1,42 @@
 .education-container {
     padding: 29px;
-    background-color: #f8f9fa; /* Light grey background */
     border-radius: 8px; /* Rounded corners */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
     margin: 20px auto; /* Center the container with margin */
     max-width: 900px; /* Maximum width for readability */
 }
 
 
 h2 {
-    color: rgba(11, 15, 14, 0.87);
+    color: #524447;
     margin: 0;
     font-family: Rubik, sans-serif;
     font-size: 24px; /* Adjust font size */
     text-align: left; /* Center-align the heading */
 }
 h4 {
-    color: rgba(11, 15, 14, 0.87);
+    color: #4c5776;
     margin: 8px 0 5px;;
     font-family: Roboto, sans-serif;
-    font-size: 20px; /* Adjust font size */
+    font-size: 18px; /* Adjust font size */
     text-align: left; /* Center-align the heading */
 }
 h3{
-    color: rgba(11, 15, 14, 0.87);
+    color: #524447;
     margin-bottom: 0;
     font-family: Roboto, sans-serif;
-    font-size: 20px; /* Adjust font size */
+    font-size: 18.72px; /* Adjust font size */
     text-align: left; /* Center-align the heading */
 }
 
-
-hr {
-    border: 0;
-    height: 3px;
-    background: rgba(65, 70, 69, 0.87);/* Light grey color for the horizontal rule */
-    margin: 0; /* Adjust vertical spacing */
+.proj-hr2{
+    border: 1px dashed rgb(197, 197, 197);
+    border-radius: 10px;
 }
-
+.proj-hr1{
+    margin: 0;
+    border: 2px solid;
+    color: #524447;
+}
 
 p {
     color: #333; /* Dark grey text color */
