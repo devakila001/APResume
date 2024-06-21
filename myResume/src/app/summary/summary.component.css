@@ -25,9 +25,8 @@ hr {
 
 
 p {
-    color: #333; /* Dark grey text color */
-    font-size: 17px; /* Adjust font size */
-    line-height: 1.6; /* Line height for better readability */
-    margin: 10px 0; /* Adjust vertical spacing */
     font-family: Roboto, sans-serif;
+    font-weight: 300;
+    line-height: 21px;
+    margin: 10px 0 19px;
 }

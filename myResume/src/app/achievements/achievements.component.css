@@ -40,3 +40,39 @@ p{
     font-size: 17px;
 
 }
+div{
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+  font-family: 'Material Symbols Outlined';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+  }
+
+  .achive-icon{
+    color: #4c5776;
+    padding-right: 23px;
+    margin: 12px 0 0;
+  }
+  .grid-container{
+    display: grid;
+    grid-template-columns: auto auto;
+  }
+
