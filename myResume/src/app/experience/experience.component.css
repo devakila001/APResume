@@ -45,14 +45,16 @@ p {
     margin: 0; /* Adjust vertical spacing */
 }
 ul {
-    list-style-type: disc;
+    
     margin-left: 20px;
     font-family: Roboto, sans-serif;
-    font-size: 18px;
+    font-size: 17px;
+    color: #333;
 }
 
 ul li {
     margin: 10px 0;
+    font-size: 17px;
 
 }
 .info-social{
@@ -80,7 +82,7 @@ ul li {
     white-space: nowrap;
     word-wrap: normal;
     direction: ltr;
-    -webkit-font-feature-settings: 'liga';
+    /* -webkit-font-feature-settings: 'liga'; */
     -webkit-font-smoothing: antialiased;
     }
 

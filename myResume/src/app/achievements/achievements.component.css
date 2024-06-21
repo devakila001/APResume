@@ -38,6 +38,7 @@ p{
     line-height: 21px;
     margin: 10px 0 19px;
     font-size: 17px;
+    color: #333;
 
 }
 div{
@@ -62,7 +63,7 @@ div{
   white-space: nowrap;
   word-wrap: normal;
   direction: ltr;
-  -webkit-font-feature-settings: 'liga';
+  /* -webkit-font-feature-settings: 'liga'; */
   -webkit-font-smoothing: antialiased;
   }
 
